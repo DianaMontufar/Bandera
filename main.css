@@ -1,0 +1,17 @@
+.div1{
+	height: 100px;
+	width: 900px;
+	background: yellow;
+}
+.div2{
+	height: 100px;
+	width: 900px;
+	background: red;
+
+}
+.div3{
+	height: 100px;
+	width: 900px;
+	background: yellow;
+	display: inline-block;
+}

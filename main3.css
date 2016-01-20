@@ -1,0 +1,26 @@
+.div1{
+	
+	background: yellow;
+	margin-right: 20px;
+	padding: 5px;
+	display: inline;
+	text-align: center;
+
+}
+.div2{
+	
+	background: red;
+	margin-right: 20px;
+	padding: 4px;
+	display: inline;
+	text-align: center;
+
+}
+.div3{
+	height: 25px;
+	width: 150px;
+	background: yellow;
+	padding: 5px;
+	display: inline;
+	text-align: center;
+}
